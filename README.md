@@ -59,7 +59,7 @@
   
 <img align="right" src="https://img.shields.io/badge/21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/ReactJs-64DAFB?style=for-the-badge&logo=react&logoColor=white" />
+<!--<img align="right" src="https://img.shields.io/badge/ReactJs-64DAFB?style=for-the-badge&logo=react&logoColor=white" />-->
 
 - 👨‍💻 **Web Developer and Front-end Developer**\
 📆 2022 - moment\
