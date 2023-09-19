@@ -103,7 +103,7 @@
   
   <li>
     <a href="https://instagram.com/lincoroffimas" target="_blank">
-      <img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/instagram: lincoroffimas-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
   </li>
 
