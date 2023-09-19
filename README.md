@@ -15,6 +15,8 @@
 
 - [![Github](https://img.shields.io/github/followers/lorenzoaslinco?label=Follow&style=flat&logo=github&logoColor=black&labelColor=white&color=blue)](https://github.com/lorenzoaslinco)
 
+- ![Views](https://komarev.com/ghpvc/?username=lorenzoaslinco&label=PROFILE+VIEWS&style=flat&color=FF0000)
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
